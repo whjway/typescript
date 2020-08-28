@@ -104,3 +104,5 @@ let names: Names = {
   //   1: "1",
 };
 console.log(names.xiaoming);
+console.log(names[1]);
+console.log(names["1"]);
